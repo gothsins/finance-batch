@@ -1,0 +1,6 @@
+date,description,amount,type,categoryId
+2026-01-10,Almoço,45.90,EXPENSE,1
+2026-01-15,Salário,3500.00,INCOME,1
+2026-01-20,Uber,23.50,EXPENSE,1
+2026-02-01,Mercado,189.90,EXPENSE,1
+2026-02-05,Freelance,800.00,INCOME,1
